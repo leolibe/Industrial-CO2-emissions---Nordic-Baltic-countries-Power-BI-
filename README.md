@@ -108,12 +108,6 @@ Design choices worth noting:
 - `YoY %` returns blank when a year is missing, instead of misleading values (−100%, +17,000%).
 - `Ref year` uses `REMOVEFILTERS(Sites)`, otherwise each facility in the top 10 would use its own last reporting year (e.g. 2017 for Norwegian sites).
 
-## Report pages
-
-1. **Overview**: KPIs for the latest year, emissions by country, share by sector, facilities map (bubble size = emissions), top 10 facilities; slicers for country, sector and year.
-2. **Mineral products**: the same view filtered on cement & lime, ceramics and mineral fibres, with breakdown by activity and the sector's share of total industrial CO₂.
-3. **Data quality**: reporting facilities per country and year, all checks and limitations.
-
 ## Key findings (2024)
 
 - **101 Mt CO₂** reported by **241 facilities**, **−6.1%** vs 2023.
