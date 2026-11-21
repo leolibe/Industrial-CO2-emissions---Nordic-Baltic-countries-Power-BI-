@@ -114,7 +114,7 @@ Design choices worth noting:
 - **Energy (~42%)** and **paper & wood (~33%)** dominate: the weight of the pulp and paper industry is a distinctive Nordic feature.
 - **Mineral products account for ~6%** of industrial CO₂ (5.9%), and **99% of that is cement and lime**.
 - **Two cement plants**, Aalborg Portland (Denmark, 1.44 Mt) and Slite (Sweden, 1.39 Mt), emit more than half of the sector's total.
-- Mineral products emissions fell **14.5%** in 2024. The long-term decline is partly a coverage effect (Norway and Lithuania drop out of the data); on a constant scope (DK, SE, FI, EE, LV) the decline is [to complete].
+- Mineral products emissions fell **14.5%** in 2024. The long-term decline is partly a coverage effect (Norway and Lithuania drop out of the data)
 
 ## Data quality checks
 
