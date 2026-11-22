@@ -4,7 +4,7 @@ Which facilities and industrial sectors emit the most CO₂ in the Nordic and Ba
 
 ![Overview page](screenshots/overview.png)
 
-Other pages: [Mineral products](screenshots/mineral-products.png) · [Data quality](screenshots/data-quality.png) · [Full report (PDF)](report.pdf)
+Other pages: [Mineral products](screenshots/mineral-products.png) · [Data quality](screenshots/data-quality.png)
 
 **Stack:** Power BI Desktop, Power Query (M), DAX · **Data:** EEA Industrial Reporting database v16 (Feb 2026), CC BY 4.0 · **Scope:** 7 countries, 2015–2024, 416 facilities
 
