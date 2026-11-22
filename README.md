@@ -146,7 +146,6 @@ The national table is built from the same facility reports: the first check conf
 ```
 nordic-baltic-industrial-co2-powerbi/
 ├── nordic-industrial-emissions.pbix   # Power BI report
-├── report.pdf                         # PDF export of all pages
 ├── screenshots/
 │   ├── overview.png
 │   ├── mineral-products.png
